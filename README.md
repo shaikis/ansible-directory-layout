@@ -1,3 +1,4 @@
+```
 # ansible-directory-layout
 Directory layout
 production                # inventory file for production servers
@@ -76,3 +77,4 @@ roles/
     webtier/
     monitoring/
     fooapp/
+```
